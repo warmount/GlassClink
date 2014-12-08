@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GlassClink</string>
+    <string name="title_glass">Wine glass</string>
+    <string name="title_beer_mug">Beer mug</string>
+    <string name="title_shot">Shot</string>
+    <string name="title_whiskey">Whiskey with ice</string>
+    <string name="title_plastic_cup">Plastic cup</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

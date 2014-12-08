@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Звон бокалов(glass clink)</string>
+    <string name="title_glass">Винные бокалы</string>
+    <string name="title_beer_mug">Пивные кружки</string>
+    <string name="title_shot">Стопки</string>
+    <string name="title_plastic_cup">Пластиковые стаканы</string>
+    <string name="title_whiskey">Виски со льдом</string>
+</resources>
